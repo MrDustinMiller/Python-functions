@@ -1,5 +1,5 @@
 #0. pad right function
-#build your own function to adjst the padding (dont use built in functions). take the string and add the padding to the string.
+#build your own function to adjst the padding. take the string and add the padding to the string.
 def displayPadding(unpaddedString):
     # initialising our padding variable with the size
     padding_size = 15
@@ -238,7 +238,7 @@ def stringRepeat(unrepeatedString, repeatNum):
 
 stringRepeat("Coding", 10)
 
-#13.should accept a string and a bool. The bool controls if “y” is considered a vowel or not. The function should return an int indicating how many 
+#13.should accept a string and a bool. The bool controls if Â“yÂ” is considered a vowel or not. The function should return an int indicating how many 
 #vowels the string contains.
 def stringVowelCount(stringOne, boolTest):
     #declare our vowel variable and intialize its value to empty
